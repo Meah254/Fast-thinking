@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "C:/Users/Meah./OneDrive/Desktop/Fast-thinking/meah.html",
+            "url": "C:/Users/Meah/OneDrive/Desktop/Fast-thinking/meah.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
